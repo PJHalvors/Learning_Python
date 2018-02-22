@@ -1,0 +1,9 @@
+#!/bin/txt
+
+"""This feels really boring and monotonous.
+That’s good. 
+It means you’re starting to get better at 
+typing in the code and understanding what it does. 
+To make it less boring, 
+take everything I tell you to type in, 
+and then break it on purpose."""
