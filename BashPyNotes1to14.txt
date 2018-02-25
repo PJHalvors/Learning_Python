@@ -1,0 +1,41 @@
+My notes on python from E1 to E14. 
+Compares commands to bash/shell and ruby
+
+PYTHON          | BASH/SHELL    | RUBY
+ .py in python   | .sh in bash   | .rb in ruby
+                 |               |
+ print in python | echo in bash  | puts in ruby
+                 |               |
+ #comment python | #comment bash | # ruby
+                 |               |
+ PEMDAS          | bc or dc      |PE(M&D)(A&S)
+                 |               |
+ string w/quotes |string no quote|string w/quotes
+                 |               |
+ var outside     |  var after $  |var in #{}
+ of quotes       |  in ' '       |within quotes
+                 |               |
+char var in ' '  |
+char var in " "  |
+num var as is    |
+                 |               |
+char format %s   |
+num format %d    |
+all format %r    |
+                 |               |
+new line \n      |
+new tab \t       |
+add slash \\     |
+add quote \'     |
+add quote \"     |
+                 |               |
+"""              |"""
+'''              |
+                 |               |
+char prompt      |read str
+raw_input()      |echo str
+int prompt       |
+int(raw_input)   |
+                 |               |
+pydoc            | man           |
+
